@@ -1,0 +1,36 @@
+/* Blog Page */
+h3 {
+    font-weight: bold;
+    color: #1976d2; /* Başlık rengi */
+    margin-bottom: 40px;
+  }
+  
+  .card {
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    position: relative;
+  }
+  
+  .card img {
+    border-radius: 8px 8px 0 0;
+  }
+  
+  .cardContent {
+    padding: 20px;
+  }
+  
+  /* Read More Button */
+  button {
+    text-transform: none;
+    background-color: #1976d2;
+    position: absolute;
+    color: white;
+  }
+  
+  button:hover {
+    background-color: #1565c0;
+  }
+
+
+
+  
